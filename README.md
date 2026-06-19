@@ -6,3 +6,7 @@ Is project me multiple images ko ek single frame ke andar smoothly slide karaya 
 ---
 
 ### Heading3
+
+- HTML
+- CSS 
+- JS

@@ -16,3 +16,12 @@ Is project me multiple images ko ek single frame ke andar smoothly slide karaya 
 ---
 **Link:**
 https://drive.google.com/file/d/17ntTVVfzlAW9ZrE2VlbpKnWPVhDgexus/view?usp=drive_link
+
+
+---
+
+**ScreenShot:**
+
+![Project output](./Main-Image-10.webp)
+
+![Project output](./ss/Main-Image-10.webp)
